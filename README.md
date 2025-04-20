@@ -1,6 +1,6 @@
-### Olá! Seja bem-vindo(a) ao meu repositório!
+### Olá! Seja bem-vindo(a)!
 
-📋 Aqui você irá encontrar projetos de estudo relacionados à área de tecnologia com foco em QA.
+🧠 Aqui você irá encontrar projetos de estudo relacionados à área de tecnologia com foco em QA.
 
 ---
 

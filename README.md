@@ -1,9 +1,18 @@
-#### Olá! Seja bem-vindo(a)! 👋
+# Seja bem-vindo(a) ao meu perfil! 👋
 
-💻 Aqui você irá encontrar projetos de estudo relacionados à área de tecnologia com foco em QA.
+Me chamo Leonardo e sou um profissional de TI com mais de 6 anos de experiência, iniciando no Suporte Técnico e passando pela Engenharia de Infraestrutura, com atuação em administração de servidores, e atualmente trabalhando como Especialista em Automações para o Marketing Digital.
 
-📞 Para mais informações e contato ↴
+Atualmente, estou em transição de carreira para a área de Qualidade de Software (QA).
 
-<div> 
-  <a href="https://www.linkedin.com/in/mendes-leonardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 📠 Mais informações e contato 
+
+📃 [Currículo](https://drive.google.com/file/d/1b_6-ilFhrv1CnhP-4YEF4x6sbW2u82lT/view?usp=sharing)<br>
+🖥️ [LinkedIn](https://www.linkedin.com/in/mendes-leonardo/)<br>
+📧 [E-mail](mailto:mendes.leonardo@yahoo.com)
+
+## 🎓 Formação
+
+⬩ Mentoria: Guardião da Qualidade (LumeStack)<br>
+⬩ Certificação: Linux Essentials (Linux Professional Institute)<br>
+⬩ Graduação: Tecnologia em Redes de Computadores (Universidade La Salle Canoas)
+

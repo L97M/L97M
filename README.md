@@ -7,8 +7,8 @@ Atualmente, estou em transição de carreira para a área de Qualidade de Softwa
 ## 📠 Mais informações e contato 
 
 📃 [Currículo](https://drive.google.com/file/d/1b_6-ilFhrv1CnhP-4YEF4x6sbW2u82lT/view?usp=sharing)<br>
-🖥️ [LinkedIn](https://www.linkedin.com/in/mendes-leonardo/)<br>
-📧 [E-mail](mailto:mendes.leonardo@yahoo.com)
+🖥️ [Perfil no LinkedIn](https://www.linkedin.com/in/mendes-leonardo/)<br>
+📧 [Me envie um e-mail](mailto:mendes.leonardo@yahoo.com)
 
 ## 🎓 Formação
 
